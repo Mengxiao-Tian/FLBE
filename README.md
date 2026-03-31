@@ -82,7 +82,7 @@ Compared to baseline models, our method generates:
 
 ```bibtex
 @article{yourname2025livestock,
-  title={Knowledge-Guided Interpretable Livestock Behavior Analysis with Retrieval-Augmented Reasoning},
+  title={Interpretable Livestock Behavior Analysis with Knowledge-Guided Retrieval-Augmented Reasoning},
   author={...},
   journal={...},
   year={2025}
