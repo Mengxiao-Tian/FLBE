@@ -1,6 +1,6 @@
-# Knowledge-Guided Interpretable Livestock Behavior Analysis with Retrieval-Augmented Reasoning
+# Interpretable Livestock Behavior Analysis with Knowledge-Guided Retrieval-Augmented Reasoning
 
-**Mengxiao Tian**<sup>a</sup>, **Fujia Guo**<sup>b</sup>, **Hao Guo**<sup>c</sup>, **Alexey Ruchay**<sup>d</sup>, **Haifeng Wang**<sup>a</sup>, **Nan Jia**<sup>a</sup>, **Bin Li**<sup>*a</sup>, **Xinxiao Wu**<sup>*b</sup>
+**Mengxiao Tian**<sup>a</sup>, **Fujia Guo**<sup>b</sup>, **Hao Guo**<sup>c</sup>, **Haifeng Wang**<sup>a</sup>, **Nan Jia**<sup>a</sup>, **Yihua Shao**<sup>a</sup>, **Andrea Pezzuolo**<sup>d</sup>, **Alexey Ruchay**<sup>d</sup>, **Bin Li**<sup>*a</sup>, **Xinxiao Wu**<sup>*b</sup>
 
 <sup>a</sup> Intelligent Equipment Research Center, Beijing Academy of Agriculture and Forestry Sciences, Beijing 100097, China  
 <sup>b</sup> Beijing Key Laboratory of Intelligent Information Technology, School of Computer Science and Technology, Beijing Institute of Technology, Beijing 100081, China  
